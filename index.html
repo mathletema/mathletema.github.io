@@ -25,16 +25,10 @@ title: Home
 <p>Click to zoom in</p>
 
 <div class="box">
-    <a href="assets/images/portraits/Roshan.jpg"><img class="sketches" src="assets/images/portraits/Roshan.jpg"
-    alt="Hrithik Roshan" title="Hrithik Roshan" height="250px"></a>
-    <a href="assets/images/portraits/Kenisha.jpg"><img class="sketches" src="assets/images/portraits/Kenisha.jpg"
-    alt="Kenisha Agrawal" title="My sister" height="250px"></a>
-    <a href="assets/images/portraits/Aarav&Anay.png"><img  class="sketches" src="assets/images/portraits/Aarav&Anay.png"
-    alt="Aarav and Anay" title="My twin cousins" height="250px"></a>
-    <a href="assets/images/portraits/Modi.png"><img class="sketches" src="assets/images/portraits/Modi.png"
-    alt="Narendra Modi" height="250px" title="PM Narendra Modi">
-    <a href="assets/images/portraits/Mamma.png"><img class="sketches" src="assets/images/portraits/Mamma.png"
-    alt="My mother" title="My lovely mother" height="250px"></a>
-    <a href="assets/images/portraits/TonyStark.jpg"><img class="sketches" src="assets/images/portraits/TonyStark.jpg"
-    alt="Tony Stark" title="Robert Downey Jr A.K.A. Tony Stark" height="250px"></a>
+    {% for item in site.data.portraits %}
+    <a href="assets/images/portraits/{{ item.src }}">
+        <img class="sketches" src="assets/images/portraits/{{ item.src }}"
+        alt="{{ item.alt }}" title="{{ item.title }}" height="250px">
+    </a>
+    {% endfor %}
 </div>
