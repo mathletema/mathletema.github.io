@@ -1,7 +1,8 @@
 .sketches {
-    border: 5px solid $dark;
+    border: 10px solid $dark;
+    margin: 10px;
 }
 
 .sketches:hover {
-    border: 5px solid $accent;
+    border: 10px solid $accent;
 }

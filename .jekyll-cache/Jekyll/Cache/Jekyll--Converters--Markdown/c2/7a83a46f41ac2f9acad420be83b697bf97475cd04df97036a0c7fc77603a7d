@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Ishank Agrawal | Home</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-    <body>
-        <div class="navbar">
-  <div class="dp">
-      <img class="dp" src="/assets/images/Ishank.jpg" alt="Profile Photo" width="200", height="200">
-      <p class="dp">Ishank Agrawal</p>
-      <hr class="dp">
-  </div>
-  <div><a class="sidelink" href="/">Home</a></div>
-  <div><a class="sidelink" href="/#about-me">About</a></div>
-  <div><a class="sidelink" href="/#awards">Awards</a></div>
-  <div><a class="sidelink" href="/sketches">Drawings</a></div>
-</div>
-        <div class="content">
-            <div class="realstuff">
-                <h1 id="about-me">About me</h1>
+I"‰<h1 id="about-me">About me</h1>
 <p>Hello. My name is Ishank Agrawal. I am an American currently living in India for the last 4 years.
 My main interests are maths, physics, sketching potraits, running and playing basketball with my friends.
 You can learn more about me <a href="about">here</a>. Below you can view my awards and my sketches. Thank you for visiting!</p>
@@ -42,9 +21,4 @@ You can learn more about me <a href="about">here</a>. Below you can view my awar
 <h1 id="sketches">Sketches</h1>
 
 <p>Visit <a href="sketches">here</a> to view my sketches.</p>
-
-            </div>
-            <div class="footspace"></div>
-        </div>
-    </body>
-</html>
+:ET

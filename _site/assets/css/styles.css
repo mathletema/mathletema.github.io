@@ -22,8 +22,8 @@ hr { height: 2px; border-width: 0; background-color: #4cb5ae; }
 
 .footspace { height: 50px; background-color: #fafafa; }
 
-.sketches { border: 5px solid #231f20; }
+.sketches { border: 10px solid #231f20; margin: 10px; }
 
-.sketches:hover { border: 5px solid #4cb5ae; }
+.sketches:hover { border: 10px solid #4cb5ae; }
 
 /*# sourceMappingURL=styles.css.map */
