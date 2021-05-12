@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About md
+title: About
 ---
 
 # Facts about me
