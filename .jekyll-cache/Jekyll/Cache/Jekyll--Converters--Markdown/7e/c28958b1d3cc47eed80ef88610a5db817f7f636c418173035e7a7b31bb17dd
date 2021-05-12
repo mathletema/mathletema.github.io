@@ -1,0 +1,52 @@
+I"4<p>#About me</p>
+<p>
+    Hello. My name is Ishank Agrawal. I am an American currently living in India for the last 4 years.
+    My main interests are maths, physics, sketching potraits, running and playing basketball with my friends.
+    You can learn more about me &lt;a href=about.html&gt;here&lt;/a&gt;. Below you can view my awards and my sketches. Thank you for visiting!
+</p>
+<h1 id="awards">Awards</h1>
+<p>
+    APMO 2020 Bronze <br />
+    IMOTC awardee - 2019, 2020 <br />
+    Sharygin Honorary Mention <br />
+    University of Waterloo Sir Issac Newton - top 20 <br />
+    CMI Tesselate STEMS Physics Qualifier <br />
+    I.S.I. Limit Qualifier <br />
+    USA Physics Camp Qualifier - 2021 <br />
+    USAPhO Qualifier - 2020, 2021 <br />
+    USAMO Qualifier - 2021 <br />
+    OMO top 50 - with team
+</p>
+
+<h1 id="drawings">Sketches</h1>
+
+<p>Click to zoom in</p>
+
+<div class="box">
+    
+    <a href="assets/images/portraits/Roshan.jpg">
+        <img class="sketches" src="assets/images/portraits/Roshan.jpg" alt="Hrithik Roshan" title="Hrithik Roshan" height="250px" />
+    </a>
+    
+    <a href="assets/images/portraits/Kenisha.jpg">
+        <img class="sketches" src="assets/images/portraits/Kenisha.jpg" alt="Kenisha Agrawal" title="My sister" height="250px" />
+    </a>
+    
+    <a href="assets/images/portraits/Aarav&amp;Anay.png">
+        <img class="sketches" src="assets/images/portraits/Aarav&amp;Anay.png" alt="Aarav and Anay" title="My twin cousins" height="250px" />
+    </a>
+    
+    <a href="assets/images/portraits/Modi.png">
+        <img class="sketches" src="assets/images/portraits/Modi.png" alt="Narendra Modi" title="PM Narendra Modi" height="250px" />
+    </a>
+    
+    <a href="assets/images/portraits/Mamma.png">
+        <img class="sketches" src="assets/images/portraits/Mamma.png" alt="My mother" title="My lovely mother" height="250px" />
+    </a>
+    
+    <a href="assets/images/portraits/TonyStark.jpg">
+        <img class="sketches" src="assets/images/portraits/TonyStark.jpg" alt="Tony Stark" title="Tony Stark AKA Ironman" height="250px" />
+    </a>
+    
+</div>
+:ET

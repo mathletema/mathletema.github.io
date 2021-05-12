@@ -1,10 +1,18 @@
+$dark: #231f20;
+$light: #fafafa;
+$accent: #4cb5ae;
+
 @font-face {
     font-family: Lato;
     src: url('/assets/fonts/Lato/Lato-Light.ttf')
 }
 
+h1 {
+    color: $accent;
+}
+
 body {
-    background-color: #fafafa;
+    background-color: $light;
     font-family: Lato;
     padding: 0;
     margin: 0;
@@ -16,7 +24,7 @@ body {
     top: 0;
     bottom: 0;
     width: 25%;
-    background-color: #909090;
+    background-color: $dark;
     padding: 20px;
     margin: 0;
     text-align: center;
@@ -40,31 +48,31 @@ div.dp {
 }
 
 a.sidelink {
-    color: #e0e0e0;
+    color: $light;
     text-decoration: none;
     font-size: 24px;
 }
 
 a.sidelink:hover {
-    color: #ffffff;
+    color: $accent;
     text-decoration: none;
     cursor: pointer;
 }
 
 .dp {
-    color: #e0e0e0;
+    color: $light;
     font-size: 24px;
 }
 
 .footspace {
     height: 50px;
-    background-color:#fafafa;
+    background-color: $light;
 }
 
 .sketches {
-    border: 5px solid #555;
+    border: 5px solid $dark;
 }
 
 .sketches:hover {
-    border: 5px solid #aaa;
+    border: 5px solid $accent;
 }
