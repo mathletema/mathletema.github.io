@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Ishank Agrawal | Home</title>
-        <link rel="stylesheet" href="/assets/css/styles.css">
-    </head>
-    <body>
-        <div class="navbar">
-  <div class="dp">
-      <img class="dp" src="/assets/images/Ishank.jpg" alt="Profile Photo" width="200", height="200">
-      <p class="dp">Ishank Agrawal</p>
-      <hr class="dp" />
-  </div>
-  <div><a class="sidelink" href="/#about-me">About</a></div>
-  <div><a class="sidelink" href="/#awards">Awards</a></div>
-  <div><a class="sidelink" href="/#sketches">Drawings</a></div>
-</div>
-        <div class="content">
-            <div class="realstuff">
-                <h1 id="about-me">About me</h1>
+I"<h1 id="about-me">About me</h1>
 <p>Hello. My name is Ishank Agrawal. I am an American currently living in India for the last 4 years.
 My main interests are maths, physics, sketching potraits, running and playing basketball with my friends.
 You can learn more about me <a href="about.html">here</a>. Below you can view my awards and my sketches. Thank you for visiting!</p>
@@ -28,14 +8,14 @@ You can learn more about me <a href="about.html">here</a>. Below you can view my
 <ul>
   <li>APMO 2020 Bronze</li>
   <li>IMOTC awardee - 2019, 2020</li>
-  <li>Sharygin Honorary Mention</li>
-  <li>University of Waterloo Sir Issac Newton - top 20</li>
-  <li>CMI Tesselate STEMS Physics Qualifier</li>
-  <li>I.S.I. Limit Qualifier</li>
-  <li>USA Physics Camp Qualifier - 2021</li>
-  <li>USAPhO Qualifier - 2020, 2021</li>
-  <li>USAMO Qualifier - 2021</li>
-  <li>OMO top 50 - with team</li>
+  <li>Sharygin Honorary Mention <br />
+University of Waterloo Sir Issac Newton - top 20 <br />
+CMI Tesselate STEMS Physics Qualifier <br />
+I.S.I. Limit Qualifier <br />
+USA Physics Camp Qualifier - 2021 <br />
+USAPhO Qualifier - 2020, 2021 <br />
+USAMO Qualifier - 2021 <br />
+OMO top 50 - with team</li>
 </ul>
 
 <h1 id="sketches">Sketches</h1>
@@ -69,9 +49,4 @@ You can learn more about me <a href="about.html">here</a>. Below you can view my
     </a>
     
 </div>
-
-            </div>
-            <div class="footspace"></div>
-        </div>
-    </body>
-</html>
+:ET

@@ -10,16 +10,16 @@ You can learn more about me [here](about.html). Below you can view my awards and
 
 # Awards
 
-APMO 2020 Bronze  
-IMOTC awardee - 2019, 2020  
-Sharygin Honorary Mention   
-University of Waterloo Sir Issac Newton - top 20   
-CMI Tesselate STEMS Physics Qualifier   
-I.S.I. Limit Qualifier   
-USA Physics Camp Qualifier - 2021   
-USAPhO Qualifier - 2020, 2021   
-USAMO Qualifier - 2021   
-OMO top 50 - with team
+- APMO 2020 Bronze  
+- IMOTC awardee - 2019, 2020  
+- Sharygin Honorary Mention   
+- University of Waterloo Sir Issac Newton - top 20   
+- CMI Tesselate STEMS Physics Qualifier   
+- I.S.I. Limit Qualifier   
+- USA Physics Camp Qualifier - 2021   
+- USAPhO Qualifier - 2020, 2021   
+- USAMO Qualifier - 2021   
+- OMO top 50 - with team
 
 # Sketches
 
