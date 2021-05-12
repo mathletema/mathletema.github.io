@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home - markdown version
+title: Home
 ---
 
 # About me
