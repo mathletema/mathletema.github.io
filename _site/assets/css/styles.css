@@ -18,6 +18,8 @@ a.sidelink:hover { color: #4cb5ae; text-decoration: none; cursor: pointer; }
 
 .dp { color: #fafafa; font-size: 24px; }
 
+hr { height: 2px; border-width: 0; background-color: #4cb5ae; }
+
 .footspace { height: 50px; background-color: #fafafa; }
 
 .sketches { border: 5px solid #231f20; }

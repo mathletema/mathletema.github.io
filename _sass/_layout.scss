@@ -56,6 +56,12 @@ a.sidelink:hover {
     font-size: 24px;
 }
 
+hr {
+    height:2px;
+    border-width:0;
+    background-color: $accent;
+}
+
 .footspace {
     height: 50px;
     background-color: $light;
