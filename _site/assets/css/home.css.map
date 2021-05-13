@@ -8,9 +8,9 @@
 	],
 	"sourcesContent": [
 		"@import \"variables\";\n@import \"home\";",
-		"$dark: #231f20;\n$light: #fafafa;\n$accent: #4cb5ae;\n\n@font-face {\n    font-family: Lato;\n    src: url('/assets/fonts/Lato/Lato-Light.ttf')\n}",
-		""
+		"$dark: #231f20;\n$light: #fafafa; \n$accent: #4cb5ae;\n\n@font-face {\n    font-family: Lato;\n    src: url('/assets/fonts/Lato/Lato-Light.ttf')\n}\n\n@font-face {\n    font-family: Lato-bold;\n    src: url('/assets/fonts/Lato/Lato-Regular.ttf')\n}",
+		"body {\n    background-image: url('/assets/images/background.jpg');\n    background-size: 100%;\n    background-position: 20% 20%;\n}\n\n.main-div {\n    position: fixed;\n    width: 100%;\n    height: 85%;\n    padding: 0;\n    margin: 0;\n    color: $light;\n}\n\n.bottom-navbar {\n    position: fixed;\n    top: 85%;\n    width: 100%;\n    height: 15%;\n    background-color: rgba($light, 0.9);\n    padding: 2.5%;\n    margin: 0;\n}\n\n.sidelink {\n    display: block;\n    text-decoration: none;\n    float: left;\n    width: 33%;\n    height: 40%;\n    text-align: center;\n    color: $dark;\n    font-family: 'Lato-bold';\n    font-size: 150%;\n}\n\n.sidelink:hover {\n    color: $accent;\n}\n\nbody {\n    padding: 0;\n    margin: 0;\n}"
 	],
 	"names": [],
-	"mappings": "ACIA,UAAU,GACN,WAAW,EAAE,IAAI,EACjB,GAAG,EAAE,wCAAwC"
+	"mappings": "ACIA,UAAU,GACN,WAAW,EAAE,IAAI,EACjB,GAAG,EAAE,wCAAwC;;AAGjD,UAAU,GACN,WAAW,EAAE,SAAS,EACtB,GAAG,EAAE,0CAA0C;;ACXnD,AAAA,IAAI,CAAC,EACD,gBAAgB,EAAE,oCAAoC,EACtD,eAAe,EAAE,IAAI,EACrB,mBAAmB,EAAE,OAAO,GAC/B;;AAED,AAAA,SAAS,CAAC,EACN,QAAQ,EAAE,KAAK,EACf,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,GAAG,EACX,OAAO,EAAE,CAAC,EACV,MAAM,EAAE,CAAC,EACT,KAAK,EDXD,OAAO,GCYd;;AAED,AAAA,cAAc,CAAC,EACX,QAAQ,EAAE,KAAK,EACf,GAAG,EAAE,GAAG,EACR,KAAK,EAAE,IAAI,EACX,MAAM,EAAE,GAAG,EACX,gBAAgB,EDnBZ,wBAAO,ECoBX,OAAO,EAAE,IAAI,EACb,MAAM,EAAE,CAAC,GACZ;;AAED,AAAA,SAAS,CAAC,EACN,OAAO,EAAE,KAAK,EACd,eAAe,EAAE,IAAI,EACrB,KAAK,EAAE,IAAI,EACX,KAAK,EAAE,GAAG,EACV,MAAM,EAAE,GAAG,EACX,UAAU,EAAE,MAAM,EAClB,KAAK,EDhCF,OAAO,ECiCV,WAAW,EAAE,WAAW,EACxB,SAAS,EAAE,IAAI,GAClB;;AAED,AAAA,SAAS,CAAC,KAAK,CAAC,EACZ,KAAK,EDpCA,OAAO,GCqCf;;AAED,AAAA,IAAI,CAAC,EACD,OAAO,EAAE,CAAC,EACV,MAAM,EAAE,CAAC,GACZ"
 }

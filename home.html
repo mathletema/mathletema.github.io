@@ -8,10 +8,10 @@
     <link rel="stylesheet" href="assets/css/home.css">
 </head>
 <body>
-    <div class="main-div"></div>
+    <div class="main-div">hi</div>
     <div class="bottom-navbar">
         {% for item in site.data.links %}
-        <div><a class="sidelink" href="{{ item.href }}">{{ item.title }}</a></div>
+        <div class="outer-sidelink"><a class="sidelink" href="{{ item.href }}">{{ item.title }}</a></div>
         {% endfor %}
     </div>
 </body>
