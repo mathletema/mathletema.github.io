@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "home.css",
+	"sources": [
+		"home.scss",
+		"_sass/_variables.scss",
+		"_sass/_home.scss"
+	],
+	"sourcesContent": [
+		"@import \"variables\";\n@import \"home\";",
+		"$dark: #231f20;\n$light: #fafafa;\n$accent: #4cb5ae;\n\n@font-face {\n    font-family: Lato;\n    src: url('/assets/fonts/Lato/Lato-Light.ttf')\n}",
+		""
+	],
+	"names": [],
+	"mappings": "ACIA,UAAU,GACN,WAAW,EAAE,IAAI,EACjB,GAAG,EAAE,wCAAwC"
+}
