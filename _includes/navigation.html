@@ -5,7 +5,7 @@
       <hr class="dp">
   </div>
   <div><a class="sidelink" href="/">Home</a></div>
-  <div><a class="sidelink" href="/#about-me">About</a></div>
-  <div><a class="sidelink" href="/#awards">Awards</a></div>
-  <div><a class="sidelink" href="/sketches">Sketches</a></div>
+  {% for item in site.data.links %}
+  <div><a class="sidelink" href="{{ item.href }}">{{ item.title }}</a></div>
+  {% endfor %}
 </div>
