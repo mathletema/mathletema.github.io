@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+description: Ishank Agrawal's website. A maths and physics enthusiast. 
 ---
 
 # About me

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About
+description: About Ishank Agrawal. Some fun facts about him.
 ---
 
 # Facts about me

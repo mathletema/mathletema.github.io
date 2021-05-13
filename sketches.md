@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Sketches
+description: Sketches by Ishank Agrawal.
 ---
 
 # My Sketches
