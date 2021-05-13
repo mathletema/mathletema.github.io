@@ -7,7 +7,7 @@ description: About Ishank Agrawal.
 # About me
 Hello. My name is Ishank Agrawal. I am an American currently living in India for the last 4 years.
 My main interests are maths, physics, sketching potraits, running and playing basketball with my friends.
-You can learn more about me [here](about). Below you can view my awards and my sketches. Thank you for visiting!
+Below you can view my awards and my sketches. Thank you for visiting!
 
 # Awards
 
