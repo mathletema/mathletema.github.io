@@ -43,3 +43,36 @@ body {
     padding: 0;
     margin: 0;
 }
+
+div.dp {
+    position: absolute;
+    float: left;
+    width: 30%;
+    height: 64%;
+    padding: 7%;
+}
+
+img.dp {
+    border-radius: 50%;
+    height: 100%;
+}
+
+.info {
+    position: absolute;
+    margin-left: 31%;
+    padding: 10%;
+    width: 50%;
+    padding-right: 2%;
+    font-family: Lato;
+    text-align: right;
+    color: $light;
+}
+
+em {
+    font-style: normal;
+    color: $light;
+}
+
+p#intro {
+    font-size: 300%;
+}

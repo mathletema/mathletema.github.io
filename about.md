@@ -1,21 +1,27 @@
 ---
 layout: default
-title: About
-description: About Ishank Agrawal. Some fun facts about him.
+title: Home
+description: About Ishank Agrawal. 
 ---
 
-# Facts about me
+# About me
+Hello. My name is Ishank Agrawal. I am an American currently living in India for the last 4 years.
+My main interests are maths, physics, sketching potraits, running and playing basketball with my friends.
+You can learn more about me [here](about). Below you can view my awards and my sketches. Thank you for visiting!
 
-Hi. Below are some facts about me!
+# Awards
 
-**Goals**: Represent USA at the International Physics Olympiad.
+- APMO 2020 Bronze  
+- IMOTC awardee - 2019, 2020  
+- Sharygin Honorary Mention   
+- University of Waterloo Sir Issac Newton - top 20   
+- CMI Tesselate STEMS Physics Qualifier   
+- I.S.I. Limit Qualifier   
+- USA Physics Camp Qualifier - 2021   
+- USAPhO Qualifier - 2020, 2021   
+- USAMO Qualifier - 2021   
+- OMO top 50 - with team
 
-**Sports I enjoy**: Table tennis, basketball, skateboarding, snowboarding, and running.
+# Sketches
 
-**Non-athletic hobbies**: Chess, cooking, torturing my friends by explaining them random physics stuff.
-
-**Favourite physics theory**: I find thermodynamics really interesting, since in essence it is a statistical theory, and all results are macroscopic rather than microscopic. I also enjoy mechanics lots of every day problems can be solved with just a few equations and really crude approximations. I really love crossovers when physics is used to solve math problems.
-
-**Favourite math subject**: Geomtery, group theory. A recurring theme I find really satisfying is to start with a seemingly trivial construction (like say euclidean plane) and prove highly non-trivial facts (like concurrence and collinearity). This is also a reason why I love number theory as it starts with just a series of numbers but goes on to theorems like Riemann zeta function which hasn't even been proved till date.
-
-**Favourite linux stuff**; distro - Arch Linux, wm - bspwm, bar - polybar. (I will be uploading dotfiles sometime in near future)
+Visit [here](sketches) to view my sketches.

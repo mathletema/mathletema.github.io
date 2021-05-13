@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,13 +17,9 @@
         </div>
     </div>
     <div class="bottom-navbar">
-        
-        <div class="outer-sidelink"><a class="sidelink" href="/about#about-me">About</a></div>
-        
-        <div class="outer-sidelink"><a class="sidelink" href="/about#awards">Awards</a></div>
-        
-        <div class="outer-sidelink"><a class="sidelink" href="/sketches">Sketches</a></div>
-        
+        {% for item in site.data.links %}
+        <div class="outer-sidelink"><a class="sidelink" href="{{ item.href }}">{{ item.title }}</a></div>
+        {% endfor %}
     </div>
 </body>
 </html>

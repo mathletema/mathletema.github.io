@@ -9,7 +9,17 @@
         <link rel="icon" type="image/png" href="favicon-16x16.png" sizes="16x16" />
     </head>
     <body>
-        {% include navigation.html %}
+        <div class="navbar">
+            <div class="dp">
+                <img class="dp" src="/assets/images/Ishank.jpg" alt="Profile Photo" width="200", height="200">
+                <p class="dp">Ishank Agrawal</p>
+                <hr class="dp">
+            </div>
+            <div><a class="sidelink" href="/">Home</a></div>
+            {% for item in site.data.links %}
+            <div><a class="sidelink" href="{{ item.href }}">{{ item.title }}</a></div>
+            {% endfor %}
+          </div>
         <div class="content">
             <div class="realstuff">
                 {{ content }}
