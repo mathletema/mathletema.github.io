@@ -21,7 +21,3 @@ Below you can view my awards and my sketches. Thank you for visiting!
 - USAPhO Qualifier - 2020, 2021   
 - USAMO Qualifier - 2021   
 - OMO top 50 - with team
-
-# Sketches
-
-Visit [here](sketches) to view my sketches.

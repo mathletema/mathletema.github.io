@@ -1,4 +1,4 @@
-I"a<h1 id="my-sketches">My Sketches</h1>
+I";<h1 id="my-sketches">My Sketches</h1>
 
 <p>I really enjoy sketching portraits/faces. Below are my sketches in chronological order.
 Click on any of them to zoom in.</p>
@@ -31,6 +31,10 @@ Click on any of them to zoom in.</p>
     
     <a href="assets/images/portraits/ChrisHemsworth.jpg">
         <img class="sketches" src="assets/images/portraits/ChrisHemsworth.jpg" alt="Chris Hemsworth" title="Chris Hemsworth" height="250px" />   
+    </a>
+    
+    <a href="assets/images/portraits/StephenHawking.jpg">
+        <img class="sketches" src="assets/images/portraits/StephenHawking.jpg" alt="Stephen Hawking" title="Stephen Hawking" height="250px" />   
     </a>
     
 </div>
