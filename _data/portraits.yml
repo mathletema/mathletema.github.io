@@ -16,9 +16,9 @@
 - title: Tony Stark AKA Ironman
   alt: Tony Stark
   src: TonyStark.jpg
-# - title: Chris Hemsworth # Not a good sketch... removed for now
-#  alt: Chris Hemsworth
-#  src: ChrisHemsworth.jpg
+- title: Chris Hemsworth
+  alt: Chris Hemsworth
+  src: ChrisHemsworth.jpg
 - title: Stephen Hawking
   alt: Stephen Hawking
   src: StephenHawking.jpg
