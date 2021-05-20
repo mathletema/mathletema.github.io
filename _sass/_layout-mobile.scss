@@ -1,0 +1,42 @@
+@media only screen and (max-width: $mobile-width) {
+    h1 {
+        color: $accent;
+    }
+
+    body {
+        background-color: $light;
+        font-family: Lato;
+        padding: 0;
+        margin: 0;
+        color: $dark;
+    }
+
+    .content {
+        position: static;
+        padding: 30px;
+    }
+
+    .navbar-for-mobile {
+        position: sticky;
+        top: 0;
+        height: 60px;
+        background-color: $dark;
+        width: 100vw;
+        text-align: center;
+        padding-top: 20px;
+    }
+
+    a.navbar-for-mobile {
+        color: $light;
+        font-size: 20px;
+        text-decoration: none;
+    }
+
+    a.navbar-for-mobile:hover {
+        color: $accent
+    }
+
+    .navbar {
+        display: none;
+    }
+}
