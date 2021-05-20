@@ -1,0 +1,27 @@
+@font-face { font-family: Lato; src: url("/assets/fonts/Lato/Lato-Light.ttf"); }
+
+@font-face { font-family: Lato-bold; src: url("/assets/fonts/Lato/Lato-Regular.ttf"); }
+
+body { background-image: url("/assets/images/background.jpg"); background-size: 100%; background-position: 20% 20%; }
+
+.main-div { position: fixed; width: 100%; height: 85%; padding: 0; margin: 0; color: #fafafa; }
+
+.bottom-navbar { position: fixed; top: 85%; width: 100%; height: 15%; background-color: rgba(250, 250, 250, 0.9); padding: 2.5%; margin: 0; }
+
+.sidelink { display: block; text-decoration: none; float: left; width: 33%; height: 40%; text-align: center; color: #231f20; font-family: 'Lato-bold'; font-size: 150%; }
+
+.sidelink:hover { color: #4cb5ae; }
+
+body { padding: 0; margin: 0; }
+
+div.dp { position: absolute; float: left; width: 30%; height: 64%; padding: 7%; }
+
+img.dp { border-radius: 50%; height: 100%; }
+
+.info { position: absolute; margin-left: 31%; padding: 10%; width: 50%; padding-right: 2%; font-family: Lato; text-align: right; color: #fafafa; }
+
+em { font-style: normal; color: #fafafa; }
+
+p#intro { font-size: 300%; }
+
+/*# sourceMappingURL=home.css.map */
