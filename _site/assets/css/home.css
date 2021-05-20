@@ -1,7 +1,5 @@
 @font-face { font-family: Lato; src: url("/assets/fonts/Lato/Lato-Light.ttf"); }
-
 @font-face { font-family: Lato-bold; src: url("/assets/fonts/Lato/Lato-Regular.ttf"); }
-
 body { background-image: url("/assets/images/background.jpg"); background-size: 100%; background-position: 20% 20%; }
 
 .main-div { position: fixed; width: 100%; height: 85%; padding: 0; margin: 0; color: #fafafa; }
@@ -23,5 +21,3 @@ img.dp { border-radius: 50%; height: 100%; }
 em { font-style: normal; color: #fafafa; }
 
 p#intro { font-size: 300%; }
-
-/*# sourceMappingURL=home.css.map */

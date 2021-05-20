@@ -1,13 +1,23 @@
 @font-face { font-family: Lato; src: url("/assets/fonts/Lato/Lato-Light.ttf"); }
-
 @font-face { font-family: Lato-bold; src: url("/assets/fonts/Lato/Lato-Regular.ttf"); }
-
-@media only screen and (min-width: 500px) { h1 { color: #4cb5ae; } body { background-color: #fafafa; font-family: Lato; padding: 0; margin: 0; color: #231f20; } .navbar { position: fixed; left: 0; top: 0; bottom: 0; width: 25%; background-color: #231f20; padding: 20px; margin: 0; text-align: center; } .content { position: fixed; left: 30%; right: 0%; height: 100%; overflow-y: scroll; padding: 30px; } img.dp { border-radius: 50%; width: 60%; height: auto; margin-top: 10%; } div.dp { margin-bottom: 20px; font-size: 2em; } a.sidelink { color: #fafafa; text-decoration: none; font-size: 1.2em; } a.sidelink:hover { color: #4cb5ae; text-decoration: none; cursor: pointer; } .dp { color: #fafafa; font-size: 24px; } hr { height: 2px; border-width: 0; background-color: #4cb5ae; } .footspace { height: 50px; background-color: #fafafa; } }
-
-@media only screen and (max-width: 500px) { h1 { color: #4cb5ae; } body { background-color: #fafafa; font-family: Lato; padding: 0; margin: 0; color: #231f20; } .content { position: static; padding: 30px; } .navbar-for-mobile { position: sticky; top: 0; height: 60px; background-color: #231f20; width: 100vw; text-align: center; padding-top: 20px; } a.navbar-for-mobile { color: #fafafa; font-size: 20px; text-decoration: none; } a.navbar-for-mobile:hover { color: #4cb5ae; } .navbar { display: none; } }
-
+@media only screen and (min-width: 500px) { h1 { color: #4cb5ae; }
+  body { background-color: #fafafa; font-family: Lato; padding: 0; margin: 0; color: #231f20; }
+  .navbar { position: fixed; left: 0; top: 0; bottom: 0; width: 25%; background-color: #231f20; padding: 20px; margin: 0; text-align: center; }
+  .content { position: fixed; left: 30%; right: 0%; height: 100%; overflow-y: scroll; padding: 30px; }
+  img.dp { border-radius: 50%; width: 60%; height: auto; margin-top: 10%; }
+  div.dp { margin-bottom: 20px; font-size: 2em; }
+  a.sidelink { color: #fafafa; text-decoration: none; font-size: 1.2em; }
+  a.sidelink:hover { color: #4cb5ae; text-decoration: none; cursor: pointer; }
+  .dp { color: #fafafa; font-size: 24px; }
+  hr { height: 2px; border-width: 0; background-color: #4cb5ae; }
+  .footspace { height: 50px; background-color: #fafafa; } }
+@media only screen and (max-width: 500px) { h1 { color: #4cb5ae; }
+  body { background-color: #fafafa; font-family: Lato; padding: 0; margin: 0; color: #231f20; }
+  .content { position: static; padding: 30px; }
+  .navbar-for-mobile { position: sticky; top: 0; height: 60px; background-color: #231f20; width: 100vw; text-align: center; padding-top: 20px; }
+  a.navbar-for-mobile { color: #fafafa; font-size: 20px; text-decoration: none; }
+  a.navbar-for-mobile:hover { color: #4cb5ae; }
+  .navbar { display: none; } }
 .sketches { border: 10px solid #231f20; margin: 10px; }
 
 .sketches:hover { border: 10px solid #4cb5ae; }
-
-/*# sourceMappingURL=styles.css.map */
