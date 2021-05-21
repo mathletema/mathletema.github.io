@@ -1,0 +1,52 @@
+@media only screen and (max-width: $mobile-width) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    .main-div {
+        background-image: none;
+        background-color: $dark;
+        padding-left: 20vw;
+        padding-right: 20vw;
+        padding-top: 10vw;
+        padding-bottom: 10vw;
+        color: $light;
+        font-family: 'Lato';
+        font-size: 1.2em;
+    }
+
+    img.dp {
+        border-radius: 50%;
+        width: 60vw;
+        height: auto;
+    }
+
+    div.info {
+        text-align: center;
+    }
+
+    .bottom-navbar {
+        text-align: center;
+        padding: 10vw;
+    }
+
+    .outer-sidelink {
+        margin: 2vw;
+    }
+
+    .sidelink {
+        font-family: 'Lato';
+        text-decoration: none;
+        color: $dark;
+        font-size: 1.2em;
+    }
+
+    .sidelink:hover {
+        color: $accent;
+    }
+
+    #intro {
+        font-size: 1.5em;
+    }
+}
