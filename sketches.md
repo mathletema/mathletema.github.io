@@ -14,6 +14,6 @@ Click on any of them to zoom in.
     <a class="sketches" href="assets/images/portraits/{{ item.src }}">
         <img class="sketches" src="assets/images/portraits/{{ item.src }}"
         alt="{{ item.alt }}" title="{{ item.title }}" height="250px">   
-    </a class="sketches">
+    </a>
     {% endfor %}
 </div>  
