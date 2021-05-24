@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Sketches
-description: Sketches by Ishank Agrawal.
+description: Sketches by Ishank Agrawal | Hi, I am Ishank Agrawal. Welcome to my website. Here you can learn all about me, my awards and you can see my sketches.
 ---
 
 # My Sketches

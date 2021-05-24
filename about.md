@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: About Ishank Agrawal. 
+description: About Ishank Agrawal | Hi, I am Ishank Agrawal. Welcome to my website. Here you can learn all about me, my awards and you can see my sketches.
 ---
 
 # About me
