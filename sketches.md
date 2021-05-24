@@ -11,7 +11,7 @@ Click on any of them to zoom in.
 
 <div class="box">
     {% for item in site.data.portraits %}
-    <a class="sketches" href="assets/images/portraits/{{ item.src }}">
+    <a class="sketches-link" href="assets/images/portraits/{{ item.src }}">
         <img class="sketches" src="assets/images/portraits/{{ item.src }}"
         alt="{{ item.alt }}" title="{{ item.title }}" height="250px">   
     </a>
