@@ -6,3 +6,8 @@
 .sketches:hover {
     border: 10px solid $accent;
 }
+
+a.sketches {
+    text-decoration: none;
+    outline: none;
+}
