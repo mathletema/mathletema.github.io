@@ -5,8 +5,8 @@ description: Here are my acedemic achievements and awards details
 ---
 
 # Schooling
-- Nursery - Grade 8 - Westwood, MA, USA
-- Grade 9 - 11 - Delhi, India
+- Nursery - Grade 8: USA
+- Grade 9 - 11: India
 
 # Awards
 - Selected as USA Physics team alternate for IPhO - 2021 
