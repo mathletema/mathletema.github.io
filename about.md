@@ -14,7 +14,7 @@ Hello. My name is Ishank Agrawal. I am an American currently living in India for
 - **Table Tennis**: Though I had always played basic table tennis with my family, I got introduced to the world of spins, shots, and wild serves when I went to my first math camp. There, I learned the art from my fellow seniors, and after I taught it to my sister. Now, especially in these COVID times, we regullarly play converting our dining table into a tennis table.
 
 ## Hobbies
-- **Chess**: Chess is one of my favorite activities. My current ranking is 1700+ on [lichess](https://lichess.org/@/ishu_agr). Please feel free to challenge me for a game anytime. :-)
+- **Chess**: Chess is one of my favorite activities. My current ranking is 1700+ on [lichess](https://lichess.org/@/ishu_agr). Please feel free to challenge me for a game anytime.
 - **Sketching**: I love to sketch. You can see some my sketch works [here](/sketches).
 - **Piano**: I self taught myself piano. I started from the basics, and now I am quite comfortable at playing level 4 pieces. My form might get strange expressions from music professionals, but I highly enjoy the time spent over each phrase and line.
 - **Cooking**: I love to cook, and in my free time you can see me making anything from noodles to pasta to burritos to exotic desserts and more.
