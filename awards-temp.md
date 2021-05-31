@@ -4,9 +4,11 @@ title: Awards
 description: Here are my acedemic achievements and awards details
 ---
 
+<div class="outer-interactive">
 <a id="usa" class="interactive" href="#">USA</a>
 <a id="india" class="interactive" href="#">India</a>
 <a id="int" class="interactive" href="#">International</a>
+</div>
 
 # Year, Location, and Grade wise Achievements
 ## 2021 – USA (Grade 11)
