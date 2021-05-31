@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Contact Me
-description: Ishank Agrawal | Contact page. Use any of the links to find out more about me or to
-connect with me.
+description: Ishank Agrawal | Contact page. Use any of the links to find out more about me or to connect with me.
 ---
 
 # Contact Me

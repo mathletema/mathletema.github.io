@@ -1,3 +1,7 @@
+var dark = '#231f20';
+var light = '#fafafa'; 
+var accent = '#4cb5ae';
+
 var usaclicked = true;
 var thingswelike = [];
 
@@ -7,21 +11,18 @@ $('a.interactive').click(function(){
     if($.inArray( id, thingswelike ) == -1 ) {
         thingswelike.push(id);
         console.log(thingswelike);
+        $(this).css('background-color', accent);
     } else {
         thingswelike.splice( $.inArray(id, thingswelike), 1 );
         console.log(thingswelike);
+        $(this).css('background-color', dark);
     }
-    
-    /** 
-    if (thingswelike.length == 0) {
+    console.log(thingswelike.length)
+    if(thingswelike.length == 0) {
+        console.log('yo')
         $('.tohide').show('slow');
-        alert('yo');
-    }   
-    else {
-        $(thingswelike.toString()).hide('slow');
-        $('.tohide:not(' +thingswelike.toString() + ')').show('slow'); 
-    }  
-    */
-    $(thingswelike.toString()).hide('slow');
-    $('.tohide:not(' +thingswelike.toString() + ')').show('slow'); 
+    } else { 
+        $(thingswelike.toString()).show('slow');
+        $('.tohide:not(' +thingswelike.toString() + ')').hide('slow'); 
+    }
 })
