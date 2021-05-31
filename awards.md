@@ -34,9 +34,9 @@ Below are a list of all my achievements. I am blessed to be able to give competi
 both countries. You can toggle showing and hiding of achievements by country using the buttons below.
 
 <div class="outer-interactive">
-<a id="usa" class="interactive" href="#">USA</a>
-<a id="india" class="interactive" href="#">India</a>
-<a id="int" class="interactive" href="#">International</a>
+<a id="usa" class="interactive" href="#year-location-and-grade-wise-achievements">USA</a>
+<a id="india" class="interactive" href="#year-location-and-grade-wise-achievements">India</a>
+<a id="int" class="interactive" href="#year-location-and-grade-wise-achievements">International</a>
 </div>
 
 ## 2021 – USA (Grade 11)
