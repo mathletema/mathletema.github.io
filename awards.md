@@ -49,6 +49,11 @@ both countries. You can toggle showing and hiding of achievements by country usi
 - APMO 2020 Bronze  
 {: .grade11 .usa .tohide}
 
+## 2021 - International (Grade 11)
+{: .grade11 .int .tohide}
+- OPhO Open round - 2nd place (Team: The Fellowship of the Equations)
+{: .grade11 .int .tohide}
+
 ## 2021 – India (Grade 11)
 {: .grade11 .india .tohide}
 - IMOTC awardee 
