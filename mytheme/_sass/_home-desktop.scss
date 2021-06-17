@@ -1,6 +1,6 @@
 @media only screen and (min-width: $mobile-width) {
     body {
-        background-image: url('/assets/images/background.jpg');
+        background-image: url('/' + $layouts-dir + '/assets/images/background.jpg');
         background-size: 100%;
         background-position: 20% 20%;
     }

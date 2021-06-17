@@ -1,0 +1,16 @@
+$mobile-width: 750px;
+$layouts-dir: 'mytheme';
+
+$dark: #231f20;
+$light: #fafafa; 
+$accent: #4cb5ae;
+
+@font-face {
+    font-family: Lato;
+    src: url('/' + $layouts-dir + '/assets/fonts/Lato/Lato-Light.ttf')
+}
+
+@font-face {
+    font-family: Lato-bold;
+    src: url('/' + $layouts-dir + '/assets/fonts/Lato/Lato-Light.ttf')
+}
