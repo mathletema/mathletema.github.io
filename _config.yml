@@ -1,8 +1,8 @@
 # Variables
 mobile-width: 750px
-theme-location: mytheme #change for layouts_dir and sass.load_path
+theme-location: ash #change for layouts_dir, sass.load_path, and in _sass/variables
 
 #Locations
 sass:
-  load_paths: [_sass, mytheme/_sass]
-layouts_dir: mytheme/_layouts
+  load_paths: [_sass, ash/_sass]
+layouts_dir: ash/_layouts
