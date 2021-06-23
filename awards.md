@@ -31,7 +31,7 @@ These are my major achievements.
 # Year, Location, and Grade wise Achievements
 
 Below are a list of all my achievements. I am blessed to be able to give competitions from 
-both countries. You can toggle showing and hiding of achievements by country using the buttons below.
+both countries. You can filter location-wise acheivements using the below buttons.
 
 <div class="outer-interactive">
 <a id="usa" class="interactive" href="#year-location-and-grade-wise-achievements">USA</a>
