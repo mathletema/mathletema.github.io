@@ -5,9 +5,8 @@ description: Here are my acedemic achievements and awards details
 ---
 
 # Schooling
-I have moved a lot, and so I have also been to a lot different schools.
-Before I moved to Inida, I lived and went to school in Westwood, MA until I was in 8th grade.
-Here I went to DPS Mathura Road until 10th grade. Currently, I am effectively homeschooled.
+I have moved a lot, and so I have also been to a lot of different schools.
+Before I moved to India, I went to Thurston Middle School, Westwood, MA (up till 8th grade). Here I went to DPS Mathura Road until 10th grade. Currently, I go to a dummy school.
 - Grades 1-2: Frederick C Murphy School, Weymouth
 - Grades 3-5: William E Sheehan Elementary School, Westwood.
 - Grades 6-8: EW Thurston Middle School, Westwood
@@ -30,8 +29,7 @@ These are my major achievements.
 
 # Year, Location, and Grade wise Achievements
 
-Below are a list of all my achievements. I am blessed to be able to give competitions from 
-both countries. You can filter location-wise acheivements using the below buttons.
+Below is a list of all my achievements. I am blessed to be able to give competitions from both countries. You can filter location-wise achievements using the buttons below.
 
 <div class="outer-interactive">
 <a id="usa" class="interactive" href="#year-location-and-grade-wise-achievements">USA</a>
