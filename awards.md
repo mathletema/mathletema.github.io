@@ -43,7 +43,7 @@ Below is a list of all my achievements. I am blessed to be able to give competit
 - USAPhO Plus Qualifier - <https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Plus-Invitees.pdf>
 - USAPhO Book Prize Winner - <https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Book-Prize-Awardees.pdf>
 - USAPhO Honorable Mentions - <https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Honorable-Mentions.pdf>
-- USAMO Qualifier   
+- USAMO Qualifier - Got 28 marks. No camp this year.  
 - APMO 2020 Bronze  
 {: .grade11 .usa .tohide}
 
