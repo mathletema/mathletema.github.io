@@ -49,7 +49,7 @@ Below is a list of all my achievements. I am blessed to be able to give competit
 
 ## 2021 - International (Grade 11)
 {: .grade11 .int .tohide}
-- OPhO Open round - 4th place (Team: The Fellowship of the Equations)
+- OPhO Open round - 4th place (Team: The Fellowship of the Equations) - <https://opho.physoly.tech/2021/rankings>
 {: .grade11 .int .tohide}
 
 ## 2021 – India (Grade 11)
