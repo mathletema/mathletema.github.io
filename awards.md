@@ -80,6 +80,8 @@ Below is a list of all my achievements. I am blessed to be able to give competit
 ## 2019 – India (Grade 9)
 {: .grade9 .india .tohide}
 - INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)
+- CMI Tesselate STEMS Physics Qualifier   
+- I.S.I. Limit Qualifier 
 {: .grade9 .india .tohide}
 
 ## 2019 – USA (Grade 9)
