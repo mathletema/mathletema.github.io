@@ -62,7 +62,7 @@ Below is a list of all my achievements. I am blessed to be able to give competit
 - Asia Pacific Math Olympiad - Bronze medal, 4 th rank in India
 - Awardee in I.F. Sharygin Geometry competition
 - Sir Issac Newton Physics Exam (University of Waterloo) - Placed 18th in the world and 10th among the online participants
-- NIMO - Team Math competition, placed 73 in the world
+- OMO - Team Math competition, placed 73 in the world
 {: .grade10 .int .tohide}
 
 ## 2020 – India (Grade 10)
