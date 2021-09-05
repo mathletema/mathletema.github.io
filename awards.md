@@ -6,7 +6,7 @@ description: Here are my acedemic achievements and awards details
 
 # Schooling
 I have moved a lot, and so I have also been to a lot of different schools.
-Before I moved to India, I went to Thurston Middle School, Westwood, MA (up till 8th grade). Here I went to DPS Mathura Road until 10th grade. Currently I go to Disha Delphi Public SChool in Kota.
+Before I moved to India, I went to Thurston Middle School, Westwood, MA (up till 8th grade). Here I went to DPS Mathura Road until 10th grade. Currently I go to Disha Delphi Public School in Kota.
 - Grades 1-2: Frederick C Murphy School, Weymouth
 - Grades 3-5: William E Sheehan Elementary School, Westwood.
 - Grades 6-8: EW Thurston Middle School, Westwood
