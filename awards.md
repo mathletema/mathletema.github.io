@@ -128,18 +128,17 @@ appearance in national math bee where secured 12 th rank overall.
 
 ## 2020 – (Grade 10)
 {: .grade10 .india .tohide}
-- INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)
-- INDIA Physics Olympiad (NSEP) – scored national top 1% of 53,913 candidates
-{: .grade10 .india .tohide}
+- INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)-<https://drive.google.com/file/d/1yxGf9XvooRoywl9TGTO30qh-6rKcq5Cz/view?usp=sharing>
 
 
 
 ## 2019 – (Grade 9)
 {: .grade9 .india .tohide}
-- INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)
+- INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)-<https://drive.google.com/file/d/17nk2tJeijnAfqwsyl0psUpIi5ce6Ouq8/view?usp=sharing>
 - CMI Tesselate STEMS Physics Qualifier   
-- I.S.I. Limit Qualifier 
-{: .grade9 .india .tohide}
+- I.S.I. Limit Qualifier {: .grade9 .india .tohide}
+- INDIA Physics Olympiad (NSEP) – scored national top 1% of 53,913 candidates
+{: .grade10 .india .tohide}-<https://drive.google.com/file/d/1hn6S-_86-4VZXdOFrLSQFmUlPWdg1rlL/view?usp=sharing>-<https://drive.google.com/file/d/1p9rJ8Vo03F_YJbrVPupdK7SdoWX_s3ml/view?usp=sharing>
 
 
 
