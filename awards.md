@@ -18,15 +18,16 @@ Before I moved to India, I went to Thurston Middle School, Westwood, MA (up till
 ## Major achievements.
 
 - Selected as USA Physics team alternate for IPhO - 2021 
-- USAPhO Qualifier - [2020](https://drive.google.com/file/d/1U2aH0GB7HfD71wngV-a_pfaYzBqoV5rj/view?usp=sharing), [2021](https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Plus-Invitees.pdf)   
-- USAMO Qualifier - [2021] (https://drive.google.com/file/d/1SvtiVmwrg__zl5NM4_WSZ-4LOeAY6n7X/view?usp=sharing)
+- USAPhO Qualifier - [Certificate-2020](https://drive.google.com/file/d/1U2aH0GB7HfD71wngV-a_pfaYzBqoV5rj/view?usp=sharing), [Certificate-2021](https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Plus-Invitees.pdf)   
+- USAMO Qualifier - [Certificate-2021](https://drive.google.com/file/d/1SvtiVmwrg__zl5NM4_WSZ-4LOeAY6n7X/view?usp=sharing)
 - APMO 2020 Bronze   [Certificate](https://drive.google.com/file/d/19teP6VPwAyLXMDjNjpc4-apwayNnKD-E/view?usp=sharing), [Listing](https://www.apmo-official.org/country_report/IND/2020)  
-- IMOTC awardee - [2019](https://drive.google.com/file/d/17nk2tJeijnAfqwsyl0psUpIi5ce6Ouq8/view?usp=sharing), [2020](https://drive.google.com/file/d/1yxGf9XvooRoywl9TGTO30qh-6rKcq5Cz/view?usp=sharing), [2021](https://drive.google.com/file/d/1xuNZLZowNwllaV4zqUMOjXgSIS3hw5bi/view?usp=sharing)
-- [Sharygin Honorary Mention](https://drive.google.com/file/d/1nIhLq6JBh_VVxTIpIoIHCL9VaJYobP0L/view?usp=sharing)  
-- [University of Waterloo Sir Issac Newton - top 18](https://drive.google.com/file/d/1xLpebjiyf-W8AIuGT9W2ExEpd9F_gTwD/view?usp=sharing) 
-- [CMI Tesselate STEMS Physics Qualifier](https://drive.google.com/file/d/1RctOudS90UWx8s52fOaSfE1xCr1osirM/view?usp=sharing)
+- IMOTC awardee - [Certificate-2019](https://drive.google.com/file/d/17nk2tJeijnAfqwsyl0psUpIi5ce6Ouq8/view?usp=sharing), [Certificate-2020](https://drive.google.com/file/d/1yxGf9XvooRoywl9TGTO30qh-6rKcq5Cz/view?usp=sharing), [Certificate-2021](https://drive.google.com/file/d/1xuNZLZowNwllaV4zqUMOjXgSIS3hw5bi/view?usp=sharing)
+- Sharygin Honorary Mention[Certificate](https://drive.google.com/file/d/1nIhLq6JBh_VVxTIpIoIHCL9VaJYobP0L/view?usp=sharing)  
+- University of Waterloo Sir Issac Newton - top 18[Certificate](https://drive.google.com/file/d/1xLpebjiyf-W8AIuGT9W2ExEpd9F_gTwD/view?usp=sharing) 
+- CMI Tesselate STEMS Physics Qualifier[Certificate](https://drive.google.com/file/d/1RctOudS90UWx8s52fOaSfE1xCr1osirM/view?usp=sharing)
 - I.S.I. Limit Qualifier   
-- [OMO top 50 - with team](https://drive.google.com/file/d/1l5ML5EvDMAEAVmyVBXXpTmaP2KZaj80Q/view?usp=sharing)
+- OMO top 50 - with team[Certificate](https://drive.google.com/file/d/1l5ML5EvDMAEAVmyVBXXpTmaP2KZaj80Q/view?usp=sharing)
+- AP Scholar Award [Certificate](https://drive.google.com/file/d/1tkE4FaUTfZJdEpGdHOZ13gMfNUy9SMP3/view?usp=sharing)
 
 Below are the rest.
 
