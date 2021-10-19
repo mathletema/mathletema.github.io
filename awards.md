@@ -17,17 +17,17 @@ Before I moved to India, I went to Thurston Middle School, Westwood, MA (up till
 
 ## Major achievements.
 
-- Selected as USA Physics team alternate for IPhO - 2021 
+- Selected as USA Physics team alternate for IPhO - 2021 [Certificate-1](https://drive.google.com/file/d/1-Ts_JtWcoDZ4ccZuarJzOCLkJ1LYGeY_/view?usp=sharing),[Certificate-2](https://drive.google.com/file/d/13dm8hL5pr1IpO4Lwv8-PA7iNGkTqt7lu/view?usp=sharing),[Certificate-3](https://drive.google.com/file/d/1PPZezWISmVHQ_cWJJZTeACFWPE9eDRY0/view?usp=sharing)
 - USAPhO Qualifier - [Certificate-2020](https://drive.google.com/file/d/1U2aH0GB7HfD71wngV-a_pfaYzBqoV5rj/view?usp=sharing), [Certificate-2021](https://www.aapt.org/physicsteam/2021/upload/2021-USAPhO-Plus-Invitees.pdf)   
 - USAMO Qualifier - [Certificate-2021](https://drive.google.com/file/d/1SvtiVmwrg__zl5NM4_WSZ-4LOeAY6n7X/view?usp=sharing)
-- APMO 2020 Bronze   [Certificate](https://drive.google.com/file/d/19teP6VPwAyLXMDjNjpc4-apwayNnKD-E/view?usp=sharing), [Listing](https://www.apmo-official.org/country_report/IND/2020)  
+- APMO 2020 Bronze  - [Certificate](https://drive.google.com/file/d/19teP6VPwAyLXMDjNjpc4-apwayNnKD-E/view?usp=sharing), [Listing](https://www.apmo-official.org/country_report/IND/2020)  
 - IMOTC awardee - [Certificate-2019](https://drive.google.com/file/d/17nk2tJeijnAfqwsyl0psUpIi5ce6Ouq8/view?usp=sharing), [Certificate-2020](https://drive.google.com/file/d/1yxGf9XvooRoywl9TGTO30qh-6rKcq5Cz/view?usp=sharing), [Certificate-2021](https://drive.google.com/file/d/1xuNZLZowNwllaV4zqUMOjXgSIS3hw5bi/view?usp=sharing)
-- Sharygin Honorary Mention[Certificate](https://drive.google.com/file/d/1nIhLq6JBh_VVxTIpIoIHCL9VaJYobP0L/view?usp=sharing)  
-- University of Waterloo Sir Issac Newton - top 18[Certificate](https://drive.google.com/file/d/1xLpebjiyf-W8AIuGT9W2ExEpd9F_gTwD/view?usp=sharing) 
-- CMI Tesselate STEMS Physics Qualifier[Certificate](https://drive.google.com/file/d/1RctOudS90UWx8s52fOaSfE1xCr1osirM/view?usp=sharing)
-- I.S.I. Limit Qualifier   
-- OMO top 50 - with team[Certificate](https://drive.google.com/file/d/1l5ML5EvDMAEAVmyVBXXpTmaP2KZaj80Q/view?usp=sharing)
-- AP Scholar Award [Certificate](https://drive.google.com/file/d/1tkE4FaUTfZJdEpGdHOZ13gMfNUy9SMP3/view?usp=sharing)
+- Sharygin Honorary Mention-[Certificate](https://drive.google.com/file/d/1nIhLq6JBh_VVxTIpIoIHCL9VaJYobP0L/view?usp=sharing)  
+- University of Waterloo Sir Issac Newton - top 18-[Certificate](https://drive.google.com/file/d/1xLpebjiyf-W8AIuGT9W2ExEpd9F_gTwD/view?usp=sharing) 
+- CMI Tesselate STEMS Physics Qualifier-[Certificate](https://drive.google.com/file/d/1RctOudS90UWx8s52fOaSfE1xCr1osirM/view?usp=sharing)
+- I.S.I. Limit Qualifier -[Certificate](https://drive.google.com/file/d/1qyL6YGMjhVI9WJxCmMR6oFCY2RgL5clN/view?usp=sharing)   
+- OMO top 50 - with team-[Certificate](https://drive.google.com/file/d/1l5ML5EvDMAEAVmyVBXXpTmaP2KZaj80Q/view?usp=sharing)
+- AP Scholar Award- [Certificate](https://drive.google.com/file/d/1tkE4FaUTfZJdEpGdHOZ13gMfNUy9SMP3/view?usp=sharing)
 
 Below are the rest.
 
@@ -95,7 +95,8 @@ Below are the rest.
 
 ## 2016 – (Grade 7)
 
-- Scored 100% in AMC 8 (Math competition for Grade 8) in November 2016
+- Scored 100% in AMC 8 (Math competition for Grade 8) in November 2016 - [Certificate](https://drive.google.com/file/d/1NZobvbuvUR7vDFmpORmIsf3XqRwVG1eb/view?usp=sharing)
+- qualified AMC 10 and invited to take AIME-[Certificate1](https://drive.google.com/file/d/1H27kubUWJ-Sf-0P9PeWBaSG_Cj6tpm7E/view?usp=sharing),[Certifiate2]()
 - North South Foundation Math Bee - represented Massachusetts in National Final in Florida on Aug 21, 2016. This is the third consecutive appearance in national math bee where secured 3 rd rank in the country
 - Big Help BARC Math competition - 2nd Place in Massachusetts-[Certificate](https://drive.google.com/file/d/1Z3CkRPUUEk1doUd261yL-8XzDyCwN1pO/view?usp=sharing)
 
@@ -138,7 +139,7 @@ appearance in national math bee where secured 12 th rank overall.-[Certificate](
 {: .grade9 .india .tohide}
 - INDIA Math Olympiad – qualified for International Mathematical Olympiad Training Camp (among top 30 students in the country)-[Certificate](https://drive.google.com/file/d/17nk2tJeijnAfqwsyl0psUpIi5ce6Ouq8/view?usp=sharing)
 - CMI Tesselate STEMS Physics Qualifier - [Certificate](https://drive.google.com/file/d/1RctOudS90UWx8s52fOaSfE1xCr1osirM/view?usp=sharing)
-- I.S.I. Limit Qualifier
+- I.S.I. Limit Qualifier-[Certificate](https://drive.google.com/file/d/1qyL6YGMjhVI9WJxCmMR6oFCY2RgL5clN/view?usp=sharing)
 - INDIA Physics Olympiad (NSEP) – scored national top 1% of 53,913 candidates- [Certificate-1](https://drive.google.com/file/d/1hn6S-_86-4VZXdOFrLSQFmUlPWdg1rlL/view?usp=sharing) [Certificate-2](https://drive.google.com/file/d/1p9rJ8Vo03F_YJbrVPupdK7SdoWX_s3ml/view?usp=sharing)
 
 
