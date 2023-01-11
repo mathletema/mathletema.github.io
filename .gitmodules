@@ -1,6 +1,0 @@
-[submodule "ash"]
-	path = ash
-	url = https://github.com/mathletema/ash/
-[submodule "sketches"]
-	path = sketches
-	url = https://github.com/mathletema/sketches
