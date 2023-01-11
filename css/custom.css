@@ -1,0 +1,67 @@
+.navbar {
+    position: fixed;
+    border-bottom: 1px solid lightgray;
+    padding: 2rem 0;
+
+    text-transform: uppercase;
+    font-size: 1.5rem;
+    letter-spacing: .2rem;
+
+    background-color: white;
+    z-index: 1;
+}
+
+@media screen and (max-width: 200px) {
+    .profile {
+        max-width: 25px;
+        margin-bottom: 1.5rem;
+        margin-left: 1.5rem;
+    }
+}
+
+@media screen and (max-width: 640px){
+    .navname {
+        display: none;
+    }
+
+    .profile {
+        width: 20%;
+        margin-bottom: 1.5rem;
+        margin-left: 1.5rem;
+    }
+}
+
+@media screen and (min-width:640px) {
+    .profile {
+        width: 100%;
+        max-width: 200px;
+        margin-bottom: 1.5rem;
+        margin-left: 1.5rem;
+    }    
+}
+
+.navlink {
+    margin-right: 1.5rem;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cap {
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+}
+
+.row {
+    margin-top: 2rem;
+}
+
+.main {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
+}
+.social {
+    font-size: 3rem;
+}
