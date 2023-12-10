@@ -1,0 +1,16 @@
+h1.title {
+    margin-bottom: 0px;
+}
+
+.date {
+    color: #999;
+    margin-bottom: 2rem;
+}
+
+h2 {
+    font-size: 3rem;  
+}
+
+.container.article {
+    margin-bottom: 5rem;
+}
